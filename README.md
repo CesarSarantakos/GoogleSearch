@@ -1,4 +1,5 @@
-Olá! Bem vindo ao meu primeito commit e push!
-Essa foi a minha primeira experiência com HTML e CSS. Estou ciente das falhas (não todas, por enquanto!) e pretendo consertá-las com o tempo, conforme progrido com o meu aprendizado.
-Ressalto que toda e qualquer critica construtiva é sempre muito bem-vinda, e na verdade até peço por comentários! (Isso se tiver alguem lendo..)
-Obrigado!
+# Projeto 0 do CS50W - Web Programming with Python and JavaScript, da Universidade Harvard.
+## Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
+
+-
+
